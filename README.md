@@ -1,1 +1,2 @@
-#Landing Page
+Landing Page
+Pull requests are welcome
